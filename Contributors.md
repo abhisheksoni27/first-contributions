@@ -221,6 +221,7 @@
 - [Opeyemi Oluwayemi] (https://github.com/delightoluwayemi)
 - [Dinara Aysungurova] (https://github.com/aysdi)
 - [Vorahpong Mean](https://github.com/VorahPong)
+- [Abhishek Soni](https://github.com/abhisheksoni27)
 - [Vivek Chudasama](https://github.com/vivekchudasama-2004)
 - [Sai Manohar Nanduri](https://github.com/NSM1997)
 - [Borzoi Lover](https://github.com/mmitros1)
